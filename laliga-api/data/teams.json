@@ -6,7 +6,19 @@
     "ciudad": "Rionegro",
     "estadio": "Alberto Grisales",
     "fundacion": "2011",
-    "entrenador": "Lucas González"
+    "entrenador": "Lucas González",
+    "titulos": {
+      "liga": 0,
+      "copa": 0,
+      "internacional": 0
+    },
+    "plantilla_valor_millones": 15.2,
+    "sitio_web": "https://aguilasdoradas.com.co",
+    "redes_sociales": {
+      "twitter": "AguilasDoradas",
+      "instagram": "aguilasdoradas"
+    },
+    "descripcion": "Club de fútbol colombiano con sede en Rionegro, Antioquia. Conocido por su rápido ascenso en el fútbol profesional y su estilo de juego ofensivo."
   },
   {
     "id": 2,
@@ -15,7 +27,19 @@
     "ciudad": "Valledupar",
     "estadio": "Armando Maestre Pavajeau",
     "fundacion": "2017",
-    "entrenador": "José Manuel Rodríguez"
+    "entrenador": "José Manuel Rodríguez",
+    "titulos": {
+      "liga": 0,
+      "copa": 0,
+      "internacional": 0
+    },
+    "plantilla_valor_millones": 10.5,
+    "sitio_web": "https://alianzafc.com.co",
+    "redes_sociales": {
+      "twitter": "AlianzaFC_oficial",
+      "instagram": "alianzafc_oficial"
+    },
+    "descripcion": "Equipo joven del fútbol colombiano que busca consolidarse en la primera división. Representa a la ciudad de Valledupar."
   },
   {
     "id": 3,
@@ -24,7 +48,19 @@
     "ciudad": "Cali",
     "estadio": "Olímpico Pascual Guerrero",
     "fundacion": "1927",
-    "entrenador": "Gabriel Raimondi"
+    "entrenador": "Gabriel Raimondi",
+    "titulos": {
+      "liga": 15,
+      "copa": 0,
+      "internacional": 0
+    },
+    "plantilla_valor_millones": 25.8,
+    "sitio_web": "https://americadecali.co",
+    "redes_sociales": {
+      "twitter": "AmericadeCali",
+      "instagram": "americadecaliof"
+    },
+    "descripcion": "Uno de los clubes más grandes y tradicionales de Colombia, con una rica historia y múltiples títulos de liga. Conocido como 'La Mechita'."
   },
   {
     "id": 4,
@@ -33,7 +69,19 @@
     "ciudad": "Bucaramanga",
     "estadio": "Américo Montanini",
     "fundacion": "1949",
-    "entrenador": "Hernán Torres"
+    "entrenador": "Hernán Torres",
+    "titulos": {
+      "liga": 1,
+      "copa": 0,
+      "internacional": 0
+    },
+    "plantilla_valor_millones": 12.0,
+    "sitio_web": "https://atleticobucaramanga.com",
+    "redes_sociales": {
+      "twitter": "ABucaramanga",
+      "instagram": "atleticobucaramanga"
+    },
+    "descripcion": "El 'Leopardo' de Bucaramanga, un equipo con una apasionada afición y una historia de lucha en el fútbol colombiano."
   },
   {
     "id": 5,
@@ -42,7 +90,19 @@
     "ciudad": "Medellín",
     "estadio": "Atanasio Girardot",
     "fundacion": "1947",
-    "entrenador": "William Amaral"
+    "entrenador": "William Amaral",
+    "titulos": {
+      "liga": 17,
+      "copa": 5,
+      "internacional": 2
+    },
+    "plantilla_valor_millones": 35.5,
+    "sitio_web": "https://atleticonacional.com.co",
+    "redes_sociales": {
+      "twitter": "nacionaloficial",
+      "instagram": "nacionaloficial"
+    },
+    "descripcion": "El club más laureado de Colombia, con múltiples títulos nacionales e internacionales, incluyendo dos Copas Libertadores. Es conocido como 'El Rey de Copas'."
   },
   {
     "id": 6,
@@ -51,7 +111,19 @@
     "ciudad": "Tunja",
     "estadio": "La Independencia",
     "fundacion": "2002",
-    "entrenador": "Diego Corredor"
+    "entrenador": "Diego Corredor",
+    "titulos": {
+      "liga": 1,
+      "copa": 0,
+      "internacional": 0
+    },
+    "plantilla_valor_millones": 8.9,
+    "sitio_web": "https://boyacachico.com.co",
+    "redes_sociales": {
+      "twitter": "BoyacaChicoFC",
+      "instagram": "boyacachicofc"
+    },
+    "descripcion": "El 'Ajedrezado' de Tunja, un equipo que ha sabido competir y sorprender en la primera división colombiana."
   },
   {
     "id": 7,
@@ -60,7 +132,19 @@
     "ciudad": "Cali",
     "estadio": "Palmaseca - Deportivo Cali",
     "fundacion": "1912",
-    "entrenador": "Jorge Luis Pinto"
+    "entrenador": "Jorge Luis Pinto",
+    "titulos": {
+      "liga": 10,
+      "copa": 1,
+      "internacional": 0
+    },
+    "plantilla_valor_millones": 20.1,
+    "sitio_web": "https://deportivocali.com.co",
+    "redes_sociales": {
+      "twitter": "AsoDeporCali",
+      "instagram": "asodeporcali"
+    },
+    "descripcion": "El 'Azucarero' es otro de los grandes históricos del fútbol colombiano, con una gran cantera y un estadio propio."
   },
   {
     "id": 8,
@@ -69,7 +153,19 @@
     "ciudad": "Pasto",
     "estadio": "Libertad",
     "fundacion": "1949",
-    "entrenador": "Flabio Torres"
+    "entrenador": "Flabio Torres",
+    "titulos": {
+      "liga": 1,
+      "copa": 0,
+      "internacional": 0
+    },
+    "plantilla_valor_millones": 9.5,
+    "sitio_web": "https://deportivopasto.com.co",
+    "redes_sociales": {
+      "twitter": "DeporPasto",
+      "instagram": "deportivopastoficial"
+    },
+    "descripcion": "El equipo 'Volcánico' del sur de Colombia, conocido por su fortaleza en casa y su pasión en cada partido."
   },
   {
     "id": 9,
@@ -78,7 +174,19 @@
     "ciudad": "Pereira",
     "estadio": "Hernán Ramírez Villegas",
     "fundacion": "1944",
-    "entrenador": "Alejandro Restrepo"
+    "entrenador": "Alejandro Restrepo",
+    "titulos": {
+      "liga": 1,
+      "copa": 0,
+      "internacional": 0
+    },
+    "plantilla_valor_millones": 11.8,
+    "sitio_web": "https://deportivopereira.com.co",
+    "redes_sociales": {
+      "twitter": "Corpereira",
+      "instagram": "corpereira"
+    },
+    "descripcion": "El 'Grande Matecaña', un equipo con una historia de resiliencia y que ha logrado importantes hazañas en los últimos años."
   },
   {
     "id": 10,
@@ -87,7 +195,19 @@
     "ciudad": "Ibagué",
     "estadio": "Manuel Murillo Toro",
     "fundacion": "1954",
-    "entrenador": "Hernán Torres"
+    "entrenador": "Hernán Torres",
+    "titulos": {
+      "liga": 3,
+      "copa": 1,
+      "internacional": 0
+    },
+    "plantilla_valor_millones": 18.7,
+    "sitio_web": "https://deportestolima.com",
+    "redes_sociales": {
+      "twitter": "cdtolima",
+      "instagram": "cdtolima"
+    },
+    "descripcion": "El 'Vinotinto y Oro', un equipo que se ha consolidado como protagonista en el fútbol colombiano, con varios títulos recientes."
   },
   {
     "id": 11,
@@ -96,7 +216,19 @@
     "ciudad": "Envigado",
     "estadio": "Polideportivo Sur",
     "fundacion": "1989",
-    "entrenador": "Eduardo Lara"
+    "entrenador": "Eduardo Lara",
+    "titulos": {
+      "liga": 0,
+      "copa": 0,
+      "internacional": 0
+    },
+    "plantilla_valor_millones": 9.1,
+    "sitio_web": "https://envigadofc.co",
+    "redes_sociales": {
+      "twitter": "EnvigadoFC",
+      "instagram": "envigadofc"
+    },
+    "descripcion": "La 'Cantera de Héroes', famoso por formar y proyectar a grandes talentos del fútbol colombiano e internacional."
   },
   {
     "id": 12,
@@ -105,7 +237,19 @@
     "ciudad": "Cota",
     "estadio": "Estadio Municipal de Cota",
     "fundacion": "2010",
-    "entrenador": "Jorge Luis Bernal"
+    "entrenador": "Jorge Luis Bernal",
+    "titulos": {
+      "liga": 0,
+      "copa": 0,
+      "internacional": 0
+    },
+    "plantilla_valor_millones": 7.8,
+    "sitio_web": "https://fortalezaceif.co",
+    "redes_sociales": {
+      "twitter": "FortalezaCEIF",
+      "instagram": "fortalezaceif"
+    },
+    "descripcion": "Un equipo con un enfoque en el desarrollo de jóvenes talentos y un estilo de juego dinámico."
   },
   {
     "id": 13,
@@ -114,7 +258,19 @@
     "ciudad": "Medellín",
     "estadio": "Atanasio Girardot",
     "fundacion": "1913",
-    "entrenador": "David González"
+    "entrenador": "David González",
+    "titulos": {
+      "liga": 6,
+      "copa": 3,
+      "internacional": 0
+    },
+    "plantilla_valor_millones": 22.5,
+    "sitio_web": "https://dimoficial.com",
+    "redes_sociales": {
+      "twitter": "DIM_Oficial",
+      "instagram": "dimoficial"
+    },
+    "descripcion": "El 'Poderoso de la Montaña', uno de los equipos más populares de Antioquia, con una gran historia y una afición fiel."
   },
   {
     "id": 14,
@@ -123,7 +279,19 @@
     "ciudad": "Barranquilla",
     "estadio": "Metropolitano Roberto Meléndez",
     "fundacion": "1924",
-    "entrenador": "Arturo Reyes"
+    "entrenador": "Arturo Reyes",
+    "titulos": {
+      "liga": 9,
+      "copa": 2,
+      "internacional": 0
+    },
+    "plantilla_valor_millones": 28.0,
+    "sitio_web": "https://juniorfc.co",
+    "redes_sociales": {
+      "twitter": "JuniorClubSA",
+      "instagram": "juniorclubsa"
+    },
+    "descripcion": "El 'Tiburón' de Barranquilla, un equipo con gran tradición en la costa caribeña y que siempre es protagonista en la liga."
   },
   {
     "id": 15,
@@ -132,7 +300,19 @@
     "ciudad": "Villavicencio",
     "estadio": "Manuel Calle Lombana",
     "fundacion": "1991",
-    "entrenador": "Jorge Luis Bernal"
+    "entrenador": "Jorge Luis Bernal",
+    "titulos": {
+      "liga": 0,
+      "copa": 0,
+      "internacional": 0
+    },
+    "plantilla_valor_millones": 6.5,
+    "sitio_web": "https://llanerosfc.com",
+    "redes_sociales": {
+      "twitter": "LlanerosFC",
+      "instagram": "llanerosfc"
+    },
+    "descripcion": "Equipo de la región de los Llanos Orientales, buscando ascender y consolidarse en la máxima categoría del fútbol colombiano."
   },
   {
     "id": 16,
@@ -141,7 +321,19 @@
     "ciudad": "Bogotá",
     "estadio": "Metropolitano de Techo",
     "fundacion": "1982",
-    "entrenador": "Alexis García"
+    "entrenador": "Alexis García",
+    "titulos": {
+      "liga": 0,
+      "copa": 1,
+      "internacional": 0
+    },
+    "plantilla_valor_millones": 14.0,
+    "sitio_web": "https://laequidadseguros.co",
+    "redes_sociales": {
+      "twitter": "Equidadfutbol",
+      "instagram": "laequidadclubdeportivo"
+    },
+    "descripcion": "El equipo 'Asegurador' de Bogotá, conocido por su solidez defensiva y su disciplina táctica."
   },
   {
     "id": 17,
@@ -150,7 +342,19 @@
     "ciudad": "Bogotá",
     "estadio": "El Campín",
     "fundacion": "1946",
-    "entrenador": "Alberto Gamero"
+    "entrenador": "Alberto Gamero",
+    "titulos": {
+      "liga": 16,
+      "copa": 3,
+      "internacional": 1
+    },
+    "plantilla_valor_millones": 29.5,
+    "sitio_web": "https://millonarios.com.co",
+    "redes_sociales": {
+      "twitter": "MillosFCoficial",
+      "instagram": "millonariosfc"
+    },
+    "descripcion": "Uno de los clubes más grandes y populares de Colombia, con una historia llena de glorias y una de las aficiones más grandes del país."
   },
   {
     "id": 18,
@@ -159,7 +363,19 @@
     "ciudad": "Manizales",
     "estadio": "Palogrande",
     "fundacion": "1961",
-    "entrenador": "Diego Corredor"
+    "entrenador": "Diego Corredor",
+    "titulos": {
+      "liga": 4,
+      "copa": 0,
+      "internacional": 1
+    },
+    "plantilla_valor_millones": 13.0,
+    "sitio_web": "https://oncecaldas.com.co",
+    "redes_sociales": {
+      "twitter": "oncecaldas",
+      "instagram": "oncecaldasoficial"
+    },
+    "descripcion": "El 'Blanco Blanco' de Manizales, recordado por su histórica Copa Libertadores, es un equipo con una gran tradición en el Eje Cafetero."
   },
   {
     "id": 19,
@@ -168,7 +384,19 @@
     "ciudad": "Bogotá",
     "estadio": "El Campín",
     "fundacion": "1941",
-    "entrenador": "Harold Rivera"
+    "entrenador": "Harold Rivera",
+    "titulos": {
+      "liga": 9,
+      "copa": 2,
+      "internacional": 2
+    },
+    "plantilla_valor_millones": 21.0,
+    "sitio_web": "https://independientesantafe.com",
+    "redes_sociales": {
+      "twitter": "SantaFe",
+      "instagram": "santafe_oficial"
+    },
+    "descripcion": "El 'León' de Bogotá, uno de los equipos más tradicionales de la capital, con varios títulos de liga y copas internacionales."
   },
   {
     "id": 20,
@@ -177,6 +405,18 @@
     "ciudad": "Santa Marta",
     "estadio": "Sierra Nevada",
     "fundacion": "1953",
-    "entrenador": "Carlos Silva"
+    "entrenador": "Carlos Silva",
+    "titulos": {
+      "liga": 1,
+      "copa": 0,
+      "internacional": 0
+    },
+    "plantilla_valor_millones": 8.2,
+    "sitio_web": "https://unionmagdalena.com",
+    "redes_sociales": {
+      "twitter": "UnionMagdalena",
+      "instagram": "unionmagdalenaoficial"
+    },
+    "descripcion": "El 'Ciclón Bananero', el equipo de Santa Marta con una rica historia y un título de liga en su palmarés."
   }
 ]

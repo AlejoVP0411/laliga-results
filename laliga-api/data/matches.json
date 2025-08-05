@@ -1,17 +1,134 @@
 [
-  { "id": 1, "local": "Junior", "visitante": "Nacional", "golesLocal": 2, "golesVisitante": 1, "fecha": "2025-04-13", "estadio": "Metropolitano Roberto Meléndez", "jornada": 1 },
-  { "id": 2, "local": "Millonarios", "visitante": "Cali", "golesLocal": 1, "golesVisitante": 1, "fecha": "2025-04-13", "jornada": 1 },
-  { "id": 3, "local": "Tolima", "visitante": "Santa Fe", "golesLocal": 0, "golesVisitante": 2, "fecha": "2025-04-14", "jornada": 1 },
-
-  { "id": 4, "local": "Junior", "visitante": "Cali", "golesLocal": 1, "golesVisitante": 0, "fecha": "2025-04-20", "jornada": 2 },
-  { "id": 5, "local": "Nacional", "visitante": "Santa Fe", "golesLocal": 2, "golesVisitante": 2, "fecha": "2025-04-20", "jornada": 2 },
-  { "id": 6, "local": "Millonarios", "visitante": "Tolima", "golesLocal": 3, "golesVisitante": 1, "fecha": "2025-04-20", "jornada": 2 },
-
-  { "id": 7, "local": "Junior", "visitante": "Santa Fe", "golesLocal": 2, "golesVisitante": 2, "fecha": "2025-04-27", "jornada": 3 },
-  { "id": 8, "local": "Millonarios", "visitante": "Nacional", "golesLocal": 1, "golesVisitante": 0, "fecha": "2025-04-27", "jornada": 3 },
-  { "id": 9, "local": "Cali", "visitante": "Tolima", "golesLocal": 0, "golesVisitante": 0, "fecha": "2025-04-27", "jornada": 3 },
-
-  { "id": 10, "local": "Tolima", "visitante": "Junior", "golesLocal": 1, "golesVisitante": 3, "fecha": "2025-05-04", "jornada": 4 },
-  { "id": 11, "local": "Nacional", "visitante": "Cali", "golesLocal": 2, "golesVisitante": 1, "fecha": "2025-05-04", "jornada": 4 },
-  { "id": 12, "local": "Santa Fe", "visitante": "Millonarios", "golesLocal": 1, "golesVisitante": 1, "fecha": "2025-05-04", "jornada": 4 }
+  {
+    "id": 1,
+    "local": "Junior",
+    "visitante": "Nacional",
+    "golesLocal": 2,
+    "golesVisitante": 1,
+    "fecha": "2025-04-13",
+    "estadio": "Metropolitano Roberto Meléndez",
+    "jornada": 1,
+    "resumen_partido": "Un emocionante encuentro en Barranquilla donde Junior logró una victoria ajustada sobre Atlético Nacional con un gol en los minutos finales."
+  },
+  {
+    "id": 2,
+    "local": "Millonarios",
+    "visitante": "Cali",
+    "golesLocal": 1,
+    "golesVisitante": 1,
+    "fecha": "2025-04-13",
+    "estadio": "El Campín",
+    "jornada": 1,
+    "resumen_partido": "Empate con sabor a poco en El Campín. Millonarios y Cali no lograron sacarse ventaja en un partido muy disputado."
+  },
+  {
+    "id": 3,
+    "local": "Tolima",
+    "visitante": "Santa Fe",
+    "golesLocal": 0,
+    "golesVisitante": 2,
+    "fecha": "2025-04-14",
+    "estadio": "Manuel Murillo Toro",
+    "jornada": 1,
+    "resumen_partido": "Santa Fe sorprendió a Tolima en su casa con una sólida actuación defensiva y dos goles de contragolpe."
+  },
+  {
+    "id": 4,
+    "local": "Junior",
+    "visitante": "Cali",
+    "golesLocal": 1,
+    "golesVisitante": 0,
+    "fecha": "2025-04-20",
+    "estadio": "Metropolitano Roberto Meléndez",
+    "jornada": 2,
+    "resumen_partido": "Junior se impuso por la mínima diferencia ante un aguerrido Deportivo Cali, manteniendo su invicto en casa."
+  },
+  {
+    "id": 5,
+    "local": "Nacional",
+    "visitante": "Santa Fe",
+    "golesLocal": 2,
+    "golesVisitante": 2,
+    "fecha": "2025-04-20",
+    "estadio": "Atanasio Girardot",
+    "jornada": 2,
+    "resumen_partido": "Un vibrante empate en Medellín entre dos grandes del fútbol colombiano. Goles y emociones hasta el final."
+  },
+  {
+    "id": 6,
+    "local": "Millonarios",
+    "visitante": "Tolima",
+    "golesLocal": 3,
+    "golesVisitante": 1,
+    "fecha": "2025-04-20",
+    "estadio": "El Campín",
+    "jornada": 2,
+    "resumen_partido": "Millonarios mostró su poderío ofensivo y venció con claridad a Deportes Tolima en un partido dominado de principio a fin."
+  },
+  {
+    "id": 7,
+    "local": "Junior",
+    "visitante": "Santa Fe",
+    "golesLocal": 2,
+    "golesVisitante": 2,
+    "fecha": "2025-04-27",
+    "estadio": "Metropolitano Roberto Meléndez",
+    "jornada": 3,
+    "resumen_partido": "Otro empate para Santa Fe, esta vez en Barranquilla. Junior no pudo mantener la ventaja y el partido terminó en tablas."
+  },
+  {
+    "id": 8,
+    "local": "Millonarios",
+    "visitante": "Nacional",
+    "golesLocal": 1,
+    "golesVisitante": 0,
+    "fecha": "2025-04-27",
+    "estadio": "El Campín",
+    "jornada": 3,
+    "resumen_partido": "El clásico entre Millonarios y Nacional se lo llevó el equipo local con un gol solitario, en un partido lleno de tensión."
+  },
+  {
+    "id": 9,
+    "local": "Cali",
+    "visitante": "Tolima",
+    "golesLocal": 0,
+    "golesVisitante": 0,
+    "fecha": "2025-04-27",
+    "estadio": "Deportivo Cali",
+    "jornada": 3,
+    "resumen_partido": "Un partido sin goles en Palmaseca. Cali y Tolima se anularon mutuamente en un encuentro con pocas oportunidades claras."
+  },
+  {
+    "id": 10,
+    "local": "Tolima",
+    "visitante": "Junior",
+    "golesLocal": 1,
+    "golesVisitante": 3,
+    "fecha": "2025-05-04",
+    "estadio": "Manuel Murillo Toro",
+    "jornada": 4,
+    "resumen_partido": "Junior visitó Ibagué y se llevó una contundente victoria ante Tolima, demostrando su poderío ofensivo."
+  },
+  {
+    "id": 11,
+    "local": "Nacional",
+    "visitante": "Cali",
+    "golesLocal": 2,
+    "golesVisitante": 1,
+    "fecha": "2025-05-04",
+    "estadio": "Atanasio Girardot",
+    "jornada": 4,
+    "resumen_partido": "Atlético Nacional se impuso a Deportivo Cali en un partido reñido, sumando tres puntos importantes en casa."
+  },
+  {
+    "id": 12,
+    "local": "Santa Fe",
+    "visitante": "Millonarios",
+    "golesLocal": 1,
+    "golesVisitante": 1,
+    "fecha": "2025-05-04",
+    "estadio": "El Campín",
+    "jornada": 4,
+    "resumen_partido": "El clásico capitalino terminó en empate. Santa Fe y Millonarios compartieron puntos en un partido con mucha intensidad."
+  }
 ]
