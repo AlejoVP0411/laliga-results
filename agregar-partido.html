@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <title>Agregar Partido</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <h1>Agregar nuevo partido</h1>
+  <form id="formPartido">
+    <input type="text" name="equipoLocal" placeholder="Equipo Local" required />
+    <input type="number" name="golesLocal" placeholder="Goles Local" required />
+    <input type="text" name="equipoVisitante" placeholder="Equipo Visitante" required />
+    <input type="number" name="golesVisitante" placeholder="Goles Visitante" required />
+    <input type="date" name="fecha" required />
+    <input type="number" name="jornada" placeholder="Número de Jornada" required />
+    <button type="submit">Agregar</button>
+  </form>
+
+  <script src="js/agregar-partido.js"></script>
+</body>
+</html>

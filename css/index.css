@@ -1,0 +1,103 @@
+main {
+  background: rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  display: grid;
+  grid-template-columns: 1fr 85%;
+  justify-content: center;
+}
+
+#jornadas {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.5rem;
+  padding: 1rem;
+}.jornada-btn {
+  width: 100%;
+  margin: 5px;
+  padding: 10px 15px;
+  border: none;
+  background: linear-gradient(45deg, #0044cc, #33aaff);
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.jornada-btn.activo {
+  background: linear-gradient(45deg, #00c6ff, #0072ff);
+  box-shadow: 0 0 15px #00c6ff;
+  transform: scale(1.1);
+}
+
+.jornada-btn:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 10px #33aaff;
+}
+
+#matchContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+  padding: 1rem;
+}
+
+.match-card {
+  width: 18rem;
+  height: 50px;
+  background: #1e1e1e;
+  border-radius: 10px;
+  margin: 10px;
+  padding: 15px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+.match-card:hover {
+  height: 180px;
+  transform: scale(1.05);
+  box-shadow: 0 0 15px #33aaff;
+}
+
+.match-info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.team-name {
+  flex-grow: 1;
+  text-align: center;
+}
+
+.match-extra {
+  display: none;
+  margin-top: 10px;
+  font-size: 0.9em;
+  color: #ccc;
+}
+
+.match-card:hover .match-extra {
+  display: block;
+  max-height: 100px;
+}
+
+.ver-btn {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 8px 12px;
+  background: linear-gradient(135deg, #ff416c, #ff4b2b);
+  color: white;
+  border: none;
+  border-radius: 20px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background 0.4s ease, transform 0.2s ease;
+}
+
+.ver-btn:hover {
+  transform: scale(1.1);
+}

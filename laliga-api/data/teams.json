@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "nombre": "Águilas Doradas",
+    "logo": "aguilas-doradas.png",
+    "ciudad": "Rionegro",
+    "estadio": "Alberto Grisales",
+    "fundacion": "2011",
+    "entrenador": "Lucas González"
+  },
+  {
+    "id": 2,
+    "nombre": "Alianza FC",
+    "logo": "Alianza.png",
+    "ciudad": "Valledupar",
+    "estadio": "Armando Maestre Pavajeau",
+    "fundacion": "2017",
+    "entrenador": "José Manuel Rodríguez"
+  },
+  {
+    "id": 3,
+    "nombre": "América de Cali",
+    "logo": "america-de-cali.png",
+    "ciudad": "Cali",
+    "estadio": "Olímpico Pascual Guerrero",
+    "fundacion": "1927",
+    "entrenador": "Gabriel Raimondi"
+  },
+  {
+    "id": 4,
+    "nombre": "Atlético Bucaramanga",
+    "logo": "bucaramanga.png",
+    "ciudad": "Bucaramanga",
+    "estadio": "Américo Montanini",
+    "fundacion": "1949",
+    "entrenador": "Hernán Torres"
+  },
+  {
+    "id": 5,
+    "nombre": "Atlético Nacional",
+    "logo": "atl-nacional.png",
+    "ciudad": "Medellín",
+    "estadio": "Atanasio Girardot",
+    "fundacion": "1947",
+    "entrenador": "William Amaral"
+  },
+  {
+    "id": 6,
+    "nombre": "Boyacá Chicó",
+    "logo": "boyaca-chico.png",
+    "ciudad": "Tunja",
+    "estadio": "La Independencia",
+    "fundacion": "2002",
+    "entrenador": "Diego Corredor"
+  },
+  {
+    "id": 7,
+    "nombre": "Deportivo Cali",
+    "logo": "deportivo-cali.png",
+    "ciudad": "Cali",
+    "estadio": "Palmaseca - Deportivo Cali",
+    "fundacion": "1912",
+    "entrenador": "Jorge Luis Pinto"
+  },
+  {
+    "id": 8,
+    "nombre": "Deportivo Pasto",
+    "logo": "pasto.png",
+    "ciudad": "Pasto",
+    "estadio": "Libertad",
+    "fundacion": "1949",
+    "entrenador": "Flabio Torres"
+  },
+  {
+    "id": 9,
+    "nombre": "Deportivo Pereira",
+    "logo": "deportivo-pereira.png",
+    "ciudad": "Pereira",
+    "estadio": "Hernán Ramírez Villegas",
+    "fundacion": "1944",
+    "entrenador": "Alejandro Restrepo"
+  },
+  {
+    "id": 10,
+    "nombre": "Deportes Tolima",
+    "logo": "tolima.png",
+    "ciudad": "Ibagué",
+    "estadio": "Manuel Murillo Toro",
+    "fundacion": "1954",
+    "entrenador": "Hernán Torres"
+  },
+  {
+    "id": 11,
+    "nombre": "Envigado FC",
+    "logo": "envigado.png",
+    "ciudad": "Envigado",
+    "estadio": "Polideportivo Sur",
+    "fundacion": "1989",
+    "entrenador": "Eduardo Lara"
+  },
+  {
+    "id": 12,
+    "nombre": "Fortaleza CEIF",
+    "logo": "fortaleza.png",
+    "ciudad": "Cota",
+    "estadio": "Estadio Municipal de Cota",
+    "fundacion": "2010",
+    "entrenador": "Jorge Luis Bernal"
+  },
+  {
+    "id": 13,
+    "nombre": "Independiente Medellín",
+    "logo": "medellin.png",
+    "ciudad": "Medellín",
+    "estadio": "Atanasio Girardot",
+    "fundacion": "1913",
+    "entrenador": "David González"
+  },
+  {
+    "id": 14,
+    "nombre": "Junior FC",
+    "logo": "junior.png",
+    "ciudad": "Barranquilla",
+    "estadio": "Metropolitano Roberto Meléndez",
+    "fundacion": "1924",
+    "entrenador": "Arturo Reyes"
+  },
+  {
+    "id": 15,
+    "nombre": "Llaneros FC",
+    "logo": "llaneros.png",
+    "ciudad": "Villavicencio",
+    "estadio": "Manuel Calle Lombana",
+    "fundacion": "1991",
+    "entrenador": "Jorge Luis Bernal"
+  },
+  {
+    "id": 16,
+    "nombre": "La Equidad",
+    "logo": "equidad.png",
+    "ciudad": "Bogotá",
+    "estadio": "Metropolitano de Techo",
+    "fundacion": "1982",
+    "entrenador": "Alexis García"
+  },
+  {
+    "id": 17,
+    "nombre": "Millonarios FC",
+    "logo": "millonarios.png",
+    "ciudad": "Bogotá",
+    "estadio": "El Campín",
+    "fundacion": "1946",
+    "entrenador": "Alberto Gamero"
+  },
+  {
+    "id": 18,
+    "nombre": "Once Caldas",
+    "logo": "once-caldas.png",
+    "ciudad": "Manizales",
+    "estadio": "Palogrande",
+    "fundacion": "1961",
+    "entrenador": "Diego Corredor"
+  },
+  {
+    "id": 19,
+    "nombre": "Santa Fe",
+    "logo": "santa-fe.png",
+    "ciudad": "Bogotá",
+    "estadio": "El Campín",
+    "fundacion": "1941",
+    "entrenador": "Harold Rivera"
+  },
+  {
+    "id": 20,
+    "nombre": "Unión Magdalena",
+    "logo": "union-magdalena.png",
+    "ciudad": "Santa Marta",
+    "estadio": "Sierra Nevada",
+    "fundacion": "1953",
+    "entrenador": "Carlos Silva"
+  }
+]

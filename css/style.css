@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&display=swap');
+
+body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', sans-serif;
+  color: white;
+}
+
+header {
+  display: flex;
+  background: repeating-linear-gradient(135deg, #004D98 0%, #A50044 25%, #004D98 50%);
+  background-size: 200% 200%;
+  animation: moveGradient 8s infinite linear;
+  padding: 15px;
+  height: 50px;
+  align-items: center;
+  overflow-x: hidden;
+  position: relative;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  position: relative;
+}
+
+.logo img {
+  height: 50px;
+  position: relative;
+  animation: rotateLogo 5s linear infinite;
+}
+
+.logo a {
+  color: white;
+  text-decoration: none;
+  font-family: "Audiowide", sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+  margin-left: 10px;
+  cursor: pointer;
+  transition: transform 0.3s ease, text-shadow 0.3s ease;
+  animation: glowPulse 2s infinite alternate;
+}
+
+.main-logo a:hover {
+  color: #0056a3;
+  transform: scale(1.05);
+  text-shadow: 0 0 10px #f8d210, 0 0 20px #f51720;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  background-color: #111;
+  padding: 10px;
+}
+
+.team-logos {
+  display: flex;
+  align-items: center;
+}
+
+.team-logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: auto;
+  height: 45px;
+}
+
+.team-button {
+  background: none;
+  border: none;
+  padding: 0;
+  margin: 5px;
+  cursor: pointer;
+  outline: none;
+  transition: transform 0.2s ease;
+}
+
+.team-button:hover {
+  transform: scale(1.1);
+}
+
+
+
+/* Animación glow */
+@keyframes glowPulse {
+  from {
+    text-shadow: 0 0 5px #00f0ff, 0 0 10px #00f0ff;
+  }
+  to {
+    text-shadow: 0 0 10px #00f0ff, 0 0 20px #00f0ff;
+  }
+}
+@keyframes moveGradient {
+  0% {
+    background-position: 0% 0%;
+  }
+  100% {
+    background-position: 100% 100%;
+  }
+}
+
+
+@media screen and (max-width: 1024px) {
+  .team-logo {
+    height: 26px;
+  }
+}

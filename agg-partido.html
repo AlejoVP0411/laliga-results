@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Liga Betplay Dimayor</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<section class="match-form-container">
+    <button class="toggle-form-btn">➕ Agregar/Editar Partido</button>
+  
+    <form id="matchForm" class="match-form hidden">
+      <!-- Información general -->
+      <fieldset class="form-section">
+        <legend>📍 Información General</legend>
+        <label>Estadio: <input type="text" name="estadio" required /></label>
+        <label>Árbitro: <input type="text" name="arbitro" required /></label>
+        <label>Fecha: <input type="date" name="fecha" required /></label>
+        <label>Hora: <input type="time" name="hora" required /></label>
+      </fieldset>
+  
+      <!-- Alineaciones -->
+      <fieldset class="form-section">
+        <legend>👥 Alineaciones</legend>
+        <label>Equipo Local: <input type="text" name="equipoLocal" /></label>
+        <textarea name="alineacionLocal" placeholder="Jugador1, Jugador2..."></textarea>
+  
+        <label>Equipo Visitante: <input type="text" name="equipoVisitante" /></label>
+        <textarea name="alineacionVisitante" placeholder="Jugador1, Jugador2..."></textarea>
+      </fieldset>
+  
+      <!-- Goles -->
+      <fieldset class="form-section">
+        <legend>⚽ Goles</legend>
+        <div id="golesContainer"></div>
+        <button type="button" onclick="agregarGol()">➕ Agregar Gol</button>
+      </fieldset>
+  
+      <!-- Asistencias -->
+      <fieldset class="form-section">
+        <legend>🎯 Asistencias</legend>
+        <div id="asistenciasContainer"></div>
+        <button type="button" onclick="agregarAsistencia()">➕ Agregar Asistencia</button>
+      </fieldset>
+  
+      <!-- Tarjetas -->
+      <fieldset class="form-section">
+        <legend>🟨 Tarjetas</legend>
+        <div id="tarjetasContainer"></div>
+        <button type="button" onclick="agregarTarjeta()">➕ Agregar Tarjeta</button>
+      </fieldset>
+  
+      <!-- Cambios -->
+      <fieldset class="form-section">
+        <legend>🔁 Cambios</legend>
+        <div id="cambiosContainer"></div>
+        <button type="button" onclick="agregarCambio()">➕ Agregar Cambio</button>
+      </fieldset>
+  
+      <button type="submit">💾 Guardar Partido</button>
+    </form>
+  </section>
+  

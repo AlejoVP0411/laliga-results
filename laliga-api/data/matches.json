@@ -1,0 +1,17 @@
+[
+  { "id": 1, "local": "Junior", "visitante": "Nacional", "golesLocal": 2, "golesVisitante": 1, "fecha": "2025-04-13", "estadio": "Metropolitano Roberto Meléndez", "jornada": 1 },
+  { "id": 2, "local": "Millonarios", "visitante": "Cali", "golesLocal": 1, "golesVisitante": 1, "fecha": "2025-04-13", "jornada": 1 },
+  { "id": 3, "local": "Tolima", "visitante": "Santa Fe", "golesLocal": 0, "golesVisitante": 2, "fecha": "2025-04-14", "jornada": 1 },
+
+  { "id": 4, "local": "Junior", "visitante": "Cali", "golesLocal": 1, "golesVisitante": 0, "fecha": "2025-04-20", "jornada": 2 },
+  { "id": 5, "local": "Nacional", "visitante": "Santa Fe", "golesLocal": 2, "golesVisitante": 2, "fecha": "2025-04-20", "jornada": 2 },
+  { "id": 6, "local": "Millonarios", "visitante": "Tolima", "golesLocal": 3, "golesVisitante": 1, "fecha": "2025-04-20", "jornada": 2 },
+
+  { "id": 7, "local": "Junior", "visitante": "Santa Fe", "golesLocal": 2, "golesVisitante": 2, "fecha": "2025-04-27", "jornada": 3 },
+  { "id": 8, "local": "Millonarios", "visitante": "Nacional", "golesLocal": 1, "golesVisitante": 0, "fecha": "2025-04-27", "jornada": 3 },
+  { "id": 9, "local": "Cali", "visitante": "Tolima", "golesLocal": 0, "golesVisitante": 0, "fecha": "2025-04-27", "jornada": 3 },
+
+  { "id": 10, "local": "Tolima", "visitante": "Junior", "golesLocal": 1, "golesVisitante": 3, "fecha": "2025-05-04", "jornada": 4 },
+  { "id": 11, "local": "Nacional", "visitante": "Cali", "golesLocal": 2, "golesVisitante": 1, "fecha": "2025-05-04", "jornada": 4 },
+  { "id": 12, "local": "Santa Fe", "visitante": "Millonarios", "golesLocal": 1, "golesVisitante": 1, "fecha": "2025-05-04", "jornada": 4 }
+]
